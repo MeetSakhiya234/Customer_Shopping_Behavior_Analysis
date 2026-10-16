@@ -156,4 +156,4 @@ Data cleaning · Exploratory data analysis · Feature engineering · SQL (CTEs, 
 ## Author
 
 **Your Name**
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/) · meetsakhiya189@gmail.com
+[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/) · meetpatel02729@gmail.com
